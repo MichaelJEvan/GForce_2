@@ -24,9 +24,9 @@ from gForce_2_UI import Ui_MainWindow
 This line near the top of the main .py program would need to be changed by inserting the file name that you used right after the word from. 
 If your using Visual Studio Code it should ask to refactor the program which would do this for you. Other IDE's will possible do the same since an error would be generated if the file names don't match.
 
-The program should work with a current version of Python3.........I utilized python 3.8.9
+The program will need a current version of Python3.........python 3.8.9 was utilized during the development of this software.
 
-I will have a .dmg file available shortly for anyone that would like to utilize the program on a Mac computer. Enjoy!
+I will have a .dmg file available shortly for anyone that would like to utilize the program on a Mac computer that is not familiar with programing which will only require a normal software install. Enjoy!
 
 Below is a screen shot of the program:
 
