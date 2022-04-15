@@ -1,7 +1,7 @@
 # GForce_2
 
 Gforce_2
-Created by: Michael J Evan
+Created by: Michael J Evan.........................
 In addition to Software Engineering as a hobby I'm also a Commercial Pilot with ATP (Airline Transport Pilot) Multi-Engine Rating and a
 Certified Flight/Instrument/Ground Instructor.
 
