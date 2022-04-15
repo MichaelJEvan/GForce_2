@@ -10,14 +10,16 @@ This is a python3 program that also utilizes Qt_designer to layout the GUI (grap
 
 The gForce_2_UI.py is creating using pyqt6 via command line on the .ui to convert it to a python program.
 
-Enter the following command in the terminal to convert: pyuic6 -x GForce_2_UI.ui -o gForce_2_UI.py
+Enter the following command in the terminal: pyuic6 -x GForce_2_UI.ui -o gForce_2_UI.py
 
-You will need to install pyqt6 in order to compile the .ui file to a python file to allow the Graphical user interface to be generated.... Obviously this can all be done from the terminal in your favorite IDE/Editor. You don't need to download the gForce_2_UI.py file since this is generated with the pyuic6 command entered in the terminal shown above. You can call this file whatever you want but a refactoring will need to be done in your main python program.
-If you change the name of the file this line at the beginning of the main Python program needs to be changed:
+You will need to install pyqt6 in order to compile the .ui file to a python file to allow the Graphical user interface to be generated.... Obviously this can all be done from the terminal in your favorite IDE/Editor. You don't need to download the gForce_2_UI.py file if you choose to experiment using the pyuic6 command in the terminal since this file will be generated with the pyuic6 command. You only need the .ui file.  You can call the .py user interface file whatever you want but changing the name will cause a need for a slight refactoring. This will need to be done in your main python program since the UI_MainWindow is imported from this file by the main Python program.
+
+If you change the name of the file the line at the beginning of the main Python program needs to be changed:
 
 from gForce_2_UI import Ui_MainWindow   
 
-This line at the top of the main .py program would need to be changed by inserting the file name that you used right after the from. If your using Visual Studio Code it should ask to refactor the program which would do this for you.
+This line at the top of the main .py program would need to be changed by inserting the file name that you used right after the word from. 
+If your using Visual Studio Code it should ask to refactor the program which would do this for you. Other IDE's will possible do the same since an error would be generated if the file names don't match.
 
 The program should work with a current version of Python3.........I utilized python 3.8.9
 
