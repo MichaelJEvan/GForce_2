@@ -15,7 +15,7 @@ The gForce_2_UI.py is creating using pyqt6 via command line on the .ui to conver
 
 Enter the following command in the terminal: pyuic6 -x GForce_2_UI.ui -o gForce_2_UI.py
 
-You will need to install pyqt6 in order to compile the .ui file to a python file to allow the Graphical user interface to be generated.... Obviously this can all be done from the terminal in your favorite IDE/Editor. You don't need to download the gForce_2_UI.py file if you choose to experiment using the pyuic6 command in the terminal since this file will be generated with the pyuic6 command. You only need the .ui file.  You can call the .py user interface file whatever you want but changing the name will cause a need for a slight refactoring. This will need to be done in your main python program since the UI_MainWindow is imported from this file by the main Python program.
+You will need to install pyqt6 in order to compile the .ui file to a python file to allow the Graphical user interface to be generated.... Obviously this can all be done from the terminal in your favorite IDE/Editor. You don't need to download the gForce_2_UI.py file if you choose to experiment using the pyuic6 command in the terminal since this file will be generated with the pyuic6 command. You only need the .ui file.  You can call the .py user interface file whatever you want but changing the name will cause a need for a slight refactoring of code in the main python program. This will need to be done in your main python program since the UI_MainWindow is imported from this file by the main Python program.
 
 If you change the name of the file the line at the beginning of the main Python program needs to be changed:
 
