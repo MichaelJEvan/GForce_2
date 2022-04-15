@@ -9,7 +9,7 @@ New Stall speed = Stall Speed in level flight * Sqrt(g_force)
 
 Note: the calculation for stall speed is based on entering the speed in knots
 
-Numberic input by the user is selected by rotating 2 dials, left dial for stall speed in level flight
+Numeric input by the user is selected by rotating 2 dials, left dial for stall speed in level flight
 and larger right dial for selecting air speed
 
 
