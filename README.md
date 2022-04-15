@@ -1,6 +1,9 @@
 # GForce_2
 
 Gforce_2
+Created by: Michael J Evan
+In addition to Software Engineering as a hobby I'm also a Commercial Pilot with ATP (Airline Transport Pilot) Multi-Engine Rating and a
+Certified Flight/Instrument/Ground Instructor.
 
 The program calculates G-force/Load Factor on an airplane at a constant altitude and a constant angle of bank. It will also calculate the new stall speed for the selected angle of bank based on what stall speed the user "dials in" for the aircraft. The stall speed selected should be for the aircraft at 1G in level flight.......
 
