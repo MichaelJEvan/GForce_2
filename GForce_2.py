@@ -1,6 +1,8 @@
 
 
 """
+Software developed by: Michael J Evan
+
 This program uses the aerodynamics formulas:
 
 1/cos(bank_angle) = load factor for an aircraft in a level turn for a selected angle of bank
