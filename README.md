@@ -25,9 +25,9 @@ If you change the name of the file the line shown below which sits near the begi
 from gForce_2_UI import Ui_MainWindow   
 
 This line near the top of the main .py program would need to be changed by inserting the file name that you used right after the word from. 
-If your using Visual Studio Code it will ask to refactor the program which will do this for you. Other IDE's will possible do the same but if not, the program name won't be corrected and an error would be generated if the file names don't match.
+If your using Visual Studio Code it will ask to refactor the program which will do this for you. Other IDE's may possibly as for refactoring, but if not, the program name won't be corrected and an error would be generated if the file names don't match.
 
-The program will need a current version of Python3 on your system to run the above code.........python 3.8.9 was utilized during the development of this software. Mac computers should already have a version of Python3 pre installed. If your not familiar with programming I would just download the .dmg file and enjoy the program. 
+The program will need a current version of Python3 on your system to run the above code.........python 3.8.9 was utilized during the development of this software. Mac computers should already have a version of Python3 pre installed. If your not familiar with programming I would just download the .dmg installation file and enjoy the program.
 
 The GForce_2_Installer.dmg file is your typical Apple Mac instalation package file. Download the file to your Mac. Double click the .dmg and drag the
 icon to the applications folder. Double clicking the program icon will then lauch the program interface. To exit the program click the red dot in the upper left corner of the GUI. ENJOY..... It's FREE!!!!!
