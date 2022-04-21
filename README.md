@@ -12,7 +12,7 @@ The program calculates G-force/Load Factor on an airplane at a constant altitude
 
 There is no user input via the keyboard......... Stall Speed & Angle of Bank are both selected via 2 dials so there is no chance of invalid data input by the user
 
-GForce_2: This program was coded utilizing the python programming language. It performs all the aerodynamic calculations and interacts with gForc_2_UI.py to display all of its calculations on the GUI (graphical user interface). Qt_designer was utilized to layout the GUI. Qt_designer then generates a .ui file in HTML format which then must be converted to a python program. The gForce_2_UI.py is creating using pyqt6 via command line on the .ui to accomplish this conversion. That program creates the actual GUI that the user interacts with. If you would like to replicate this process enter the following command in the terminal:
+GForce_2: This program was coded utilizing the python programming language. It performs all the aerodynamic calculations and interacts with gForc_2_UI.py program to display all of its calculations on the GUI (graphical user interface). Qt_designer was utilized to layout the GUI. Qt_designer then generates a .ui file in HTML format which then must be converted to a python program. The gForce_2_UI.py is creating using pyqt6 via command line on the .ui to accomplish this conversion. That program creates the actual GUI that the user interacts with. If you would like to replicate this process enter the following command in the terminal:
 
 pyuic6 -x GForce_2_UI.ui -o gForce_2_UI.py
 
