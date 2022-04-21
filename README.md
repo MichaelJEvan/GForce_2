@@ -11,18 +11,19 @@ There is no user input via the keyboard......... Stall Speed & Angle of Bank are
 
 This is a python3 program that also utilizes Qt_designer to layout the GUI (graphical user interface)......... It generates a .ui file in HTML format
 
-The gForce_2_UI.py is creating using pyqt6 via command line on the .ui to convert it to a python program.
+The gForce_2_UI.py is creating using pyqt6 via command line on the .ui to convert it to a python program. If you would like to replicate this process
+enter the following command in the terminal:
 
-Enter the following command in the terminal: pyuic6 -x GForce_2_UI.ui -o gForce_2_UI.py
+pyuic6 -x GForce_2_UI.ui -o gForce_2_UI.py
 
-You will need to install pyqt6 in order to compile the .ui file to a python file to allow the Graphical user interface to be generated.... Obviously this can all be done from the terminal in your favorite IDE/Editor. You don't need to download the gForce_2_UI.py file if you choose to experiment using the pyuic6 command in the terminal since this file will be generated with the pyuic6 command. You only need the .ui file.  You can call the .py user interface file whatever you want but changing the name will cause a need for a slight refactoring of code in the main python program. The UI_MainWindow is imported from the user interface Python file.
+You will obviously need to install pyqt6 in order to compile the .ui file to a python .py program which allows the Graphical user interface to be generated.... Obviously this can all be done from the terminal in your favorite IDE/Editor. You don't need to download the gForce_2_UI.py file if you choose to experiment using the pyuic6 command in the terminal since this file will be generated with the pyuic6 command. You only need the .ui file.  You can call the .py user interface file whatever you want but changing the name will cause a need for a slight refactoring of code in the main python program. The UI_MainWindow is imported from the user interface Python file.
 
 If you change the name of the file the line near the beginning of the main Python program needs to be changed:
 
 from gForce_2_UI import Ui_MainWindow   
 
 This line near the top of the main .py program would need to be changed by inserting the file name that you used right after the word from. 
-If your using Visual Studio Code it should ask to refactor the program which would do this for you. Other IDE's will possible do the same since an error would be generated if the file names don't match.
+If your using Visual Studio Code it should ask to refactor the program which would do this for you. Other IDE's will possible do the same but if the program name is corrected an error would be generated if the file names don't match.
 
 The program will need a current version of Python3.........python 3.8.9 was utilized during the development of this software.
 
