@@ -30,9 +30,6 @@ stall_speed = int(40) # initialized stall speed to integer with minimum value of
 stall_speed_banked = int(40) # stall speed displayed at the selected angle of bank....initialized at 40 i.e. 1g or level flight
 g_force = float(0.0)   # initializes the G force to a float
 
-
-
-
 class MainWindow:
     def __init__(self):
         self.main_win = QMainWindow()
