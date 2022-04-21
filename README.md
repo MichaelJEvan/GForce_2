@@ -16,7 +16,7 @@ GForce_2: This program was coded utilizing the python programming language. It p
 
 pyuic6 -x GForce_2_UI.ui -o gForce_2_UI.py
 
-Then run GForce_2.py from the editor/ide.
+Then run GForce_2.py from the editor/ide.  The program should display as shown below.
 
 You will need to install pyqt6 in order to compile the .ui file to a python .py program which allows the Graphical user interface to be generated. You don't need to download the gForce_2_UI.py file if you choose to experiment using the pyuic6 command in the terminal since this file will be generated with the pyuic6 command. You only need the .ui file.
 
