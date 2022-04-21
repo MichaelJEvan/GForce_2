@@ -18,14 +18,7 @@ pyuic6 -x GForce_2_UI.ui -o gForce_2_UI.py
 
 Then run GForce_2.py from the editor/ide.
 
-You will obviously need to install pyqt6 in order to compile the .ui file to a python .py program which allows the Graphical user interface to be generated. You don't need to download the gForce_2_UI.py file if you choose to experiment using the pyuic6 command in the terminal since this file will be generated with the pyuic6 command. You only need the .ui file.  You can call the .py user interface file whatever you want but changing the name will cause a need for a slight refactoring of code in the main python program. The UI_MainWindow is imported from the user interface Python file.
-
-If you change the name of the file the line shown below which sits near the beginning of the main Python program needs to be changed:
-
-from gForce_2_UI import Ui_MainWindow   
-
-This line near the top of the main .py program would need to be changed by inserting the file name that you used right after the word from. 
-If your using Visual Studio Code it will ask to refactor the program which will do this for you. Other IDE's may possibly as for refactoring, but if not, the program name won't be corrected and an error would be generated if the file names don't match.
+You will need to install pyqt6 in order to compile the .ui file to a python .py program which allows the Graphical user interface to be generated. You don't need to download the gForce_2_UI.py file if you choose to experiment using the pyuic6 command in the terminal since this file will be generated with the pyuic6 command. You only need the .ui file.
 
 The program will need a current version of Python3 on your system to run the above code.........python 3.8.9 was utilized during the development of this software. Mac computers should already have a version of Python3 pre installed. If your not familiar with programming I would just download the .dmg installation file and enjoy the program.
 
