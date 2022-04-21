@@ -23,7 +23,7 @@ If you change the name of the file the line near the beginning of the main Pytho
 from gForce_2_UI import Ui_MainWindow   
 
 This line near the top of the main .py program would need to be changed by inserting the file name that you used right after the word from. 
-If your using Visual Studio Code it should ask to refactor the program which would do this for you. Other IDE's will possible do the same but if the program name is corrected an error would be generated if the file names don't match.
+If your using Visual Studio Code it should ask to refactor the program which would do this for you. Other IDE's will possible do the same but if not, the program name won't be corrected an error would be generated if the file names don't match.
 
 The program will need a current version of Python3.........python 3.8.9 was utilized during the development of this software.
 
