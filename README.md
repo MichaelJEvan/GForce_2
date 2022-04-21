@@ -22,7 +22,7 @@ You will need to install pyqt6 in order to compile the .ui file to a python .py 
 
 The program will need a current version of Python3 on your system to run the above code.........python 3.8.9 was utilized during the development of this software. Mac computers should already have a version of Python3 pre installed. If your not familiar with programming I would just download the .dmg installation file and enjoy the program.
 
-GForce_2_Installer.dmg
+GForce_2_Installer.dmg (non-programmers should just download this file and install)
 
 This file is your typical Apple Mac installation file. Download the file to your Mac. Double click the .dmg and drag the
 icon to the applications folder. Double clicking the program icon will then lauch the program interface. To exit the program click the red dot in the upper left corner of the GUI. ENJOY..... It's FREE!!!!!
