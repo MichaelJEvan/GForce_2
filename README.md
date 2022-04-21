@@ -8,9 +8,9 @@ In addition to Software Engineering I am also a Commercial Pilot / ATP (Airline 
 Certified Flight & Instrument Instructor & Ground Instructor. This program is only intended to be used for theoretical representation of Bank Angle and how it effects Load Factor and Stall Speed. It should never be used for actual aircraft specific pre-flight performance calculations and such use is prohibited
 by this disclaimer.
 
-The program calculates G-force/Load Factor on an airplane at a constant altitude and a constant angle of bank. It will also calculate the new stall speed for the selected angle of bank based on what stall speed the user "dials in" for the aircraft. The initial stall speed selected should be for the aircraft at 1G in level flight.
+The program calculates G-force/Load Factor on an airplane at a constant altitude and a constant angle of bank. It will also calculate the new stall speed for the selected angle of bank based on what stall speed the user selects for the aircraft. The initial stall speed selected should be for the aircraft at 1G in level flight.
 
-There is no user input via the keyboard......... Stall Speed & Angle of Bank are both selected via 2 dials so there is no chance of invalid data input by the user
+There is no user input via the keyboard......... Stall Speed & Angle of Bank are both selected via the 2 dials in the center of the user interface so there is no chance of invalid data input by the user.
 
 GForce_2: This program was coded utilizing the python programming language. It performs all the aerodynamic calculations and interacts with gForc_2_UI.py program to display all of its calculations on the GUI (graphical user interface). Qt_designer was utilized to layout the GUI. Qt_designer then generates a .ui file in HTML format which then must be converted to a python program. The gForce_2_UI.py is creating using pyqt6 via command line on the .ui to accomplish this conversion. That program creates the actual GUI that the user interacts with. If you would like to replicate this process download the GForce_2.py & the GForce_2_Ui.ui files and load into your favorate python editor/ide. Enter the following command via the terminal:
 
@@ -28,7 +28,7 @@ If your using Visual Studio Code it will ask to refactor the program which will 
 The program will need a current version of Python3 on your system to run the above code.........python 3.8.9 was utilized during the development of this software. Mac computers should already have a version of Python3 pre installed. If your not familiar with programming I would just download the .dmg file and enjoy the program. 
 
 The GForce_2_Installer.dmg file is your typical Apple Mac instalation package file. Download the file to your Mac. Double click the .dmg and drag the
-icon to the applications folder. Double clicking the program icon will then lauch the program interface. ENJOY..... It's FREE!!!!!
+icon to the applications folder. Double clicking the program icon will then lauch the program interface. To exit the program click the red dot in the upper left corner of the GUI. ENJOY..... It's FREE!!!!!
 
 
 Below is a screen shot of the program:
