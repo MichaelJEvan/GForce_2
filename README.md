@@ -26,7 +26,7 @@ If your using Visual Studio Code it should ask to refactor the program which wou
 
 The program will need a current version of Python3.........python 3.8.9 was utilized during the development of this software.
 
-The GForce_2_Installer.dmg file is an Apple Mac instalation file that you can download to run the application on a Mac. Just double click the .dmg and drag the
+The GForce_2_Installer.dmg file is your typical Apple Mac instalation package file that you can download to run the application on a Mac. Just double click the .dmg and drag the
 icon to the applications folder. ENJOY!!!!!
 
 
