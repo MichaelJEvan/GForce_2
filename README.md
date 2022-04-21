@@ -2,10 +2,10 @@
 
 Gforce_2
 
-Created by: Michael J Evan                                                               
+Created by: Michael J Evan ATP, CFII                                                           
 
 In addition to Software Engineering I am also a Commercial Pilot / ATP (Airline Transport Pilot) Multi-Engine Rated and
-Certified Flight& Instrument Instructor & Ground Instructor. This program is only intended to be used as theoretical representation of Bank Angle and how it effects Load Factor and Stall Speed. It should never be used for actual aircraft specific pre-flight performance calculations and such use is prohibited
+Certified Flight & Instrument Instructor & Ground Instructor. This program is only intended to be used as theoretical representation of Bank Angle and how it effects Load Factor and Stall Speed. It should never be used for actual aircraft specific pre-flight performance calculations and such use is prohibited
 by this disclaimer.
 
 The program calculates G-force/Load Factor on an airplane at a constant altitude and a constant angle of bank. It will also calculate the new stall speed for the selected angle of bank based on what stall speed the user "dials in" for the aircraft. The initial stall speed selected should be for the aircraft at 1G in level flight.
