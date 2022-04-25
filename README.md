@@ -2,6 +2,8 @@
 
 Gforce_2
 
+Note: Unfortunately the current Mac version will only install and run on the new M1 Mac platform.....hopefully have an Intel Mac version shortly.
+
 Created by: Michael J Evan ATP, CFII                                                           
 
 In addition to Software Engineering I am also a Commercial Pilot / ATP (Airline Transport Pilot) Multi-Engine Rated and
