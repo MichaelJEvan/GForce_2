@@ -6,7 +6,7 @@ There are 3 different installation files in the above files listing. One for Int
 
 Installer for Intel Macs: GF2IntelMac.dmg
 
-Installer for M1 Macs: GForce2_M1Mac.dmg
+Installer for M1 Macs: GForce_2_M1Mac.dmg
 
 Installer for Windows: GForce_2_Windows_Installer.exe
 
