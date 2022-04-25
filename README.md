@@ -2,7 +2,13 @@
 
 Gforce_2
 
-Note: Unfortunately the current Mac version will only install and run on the new M1 Mac platform.....hopefully have an Intel Mac version shortly.
+There are 3 different installation files in the above files listing. One for Intel based Macs, M1 Mac, & Windows:
+
+Installer for Intel Macs: GF2IntelMac.dmg
+
+Installer for M1 Macs: GForce2_M1Mac.dmg
+
+Installer for Windows: GForce_2_Windows_Installer.exe
 
 Created by: Michael J Evan ATP, CFII                                                           
 
@@ -22,13 +28,7 @@ Then run GForce_2.py from the editor/ide.  The program should display as shown b
 
 You will need to install pyqt6 in order to compile the .ui file to a python .py program which allows the Graphical user interface to be generated. You don't need to download the gForce_2_UI.py file if you choose to experiment using the pyuic6 command in the terminal since this file will be generated with the pyuic6 command. You only need the .ui file.
 
-The program will need a current version of Python3 on your system to run the above code.........python 3.8.9 was utilized during the development of this software. Mac computers should already have a version of Python3 pre installed. If your not familiar with programming I would just download the .dmg installation file and enjoy the program.
-
-GForce_2_Installer.dmg (non-programmers should just download this file and install)
-
-This file is your typical Apple Mac installation file. Download the file to your Mac. Double click the .dmg and drag the
-icon to the applications folder. Double clicking the program icon will then lauch the program interface. To exit the program click the red dot in the upper left corner of the GUI. ENJOY..... It's FREE!!!!!
-
+None programmers please just use one of the 3 installation files provided depending on your operating system. Currently there is no Linux distribution. But ya never know!
 
 Below is a screen shot of the program:
 
