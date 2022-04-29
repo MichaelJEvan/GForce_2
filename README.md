@@ -2,9 +2,7 @@
 
 Downloadable installation files are located in the files list of this repository for the following platforms:  Intel Mac, M1 Mac, & Windows.
 
-Installer file Intel Mac: GF2IntelMac.dmg
-
-Installer file M1 Mac: GForce_2_M1Mac.dmg
+Installer file Intel Mac/M1Mac: GF2IntelMac.dmg
 
 Installer file Windows 7 thru 10, Windows 11 has not been tested yet: GForce_2_Windows_Installer.exe
 
