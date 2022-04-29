@@ -12,7 +12,7 @@ Installer file Windows 7 thru 10, possibly Windows 11: GForce_2_Windows_Installe
 
 Created by: Michael J Evan ATP, CFII                                                           
 
-In addition to Software Engineering I am also a Commercial Pilot / ATP (Airline Transport Pilot) Multi-Engine Rated and
+In addition to Software Development, I am also a Commercial Pilot / ATP (Airline Transport Pilot) Multi-Engine Rated and
 Certified Flight & Instrument Instructor & Ground Instructor, and Nurse Anesthetist. This program is only intended to be used for theoretical representation of Bank Angle and how it effects Load Factor and Stall Speed. It should never be used for actual aircraft specific pre-flight performance calculations and such use is prohibited
 by this disclaimer.
 
