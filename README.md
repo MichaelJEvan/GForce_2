@@ -30,7 +30,7 @@ You will need to install pyqt6 in order to compile the .ui file to a python .py 
 
 None programmers please just use one of the 3 installation files provided depending on your operating system. Currently there is no Linux distribution. But ya never know!
 
-Below is a screen shot of the program:
+Below is a screen shot of the program with example values selected:
 
 ![GForce_2 Screenshot](https://user-images.githubusercontent.com/49410936/165987633-46618654-ad2a-499e-8179-9ac31cacb54b.png)
 
