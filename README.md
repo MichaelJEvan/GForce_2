@@ -2,7 +2,7 @@
 
 Gforce_2
 
-3 different installation files are located in the list of supplied files in this repository for the following platforms:  Intel Mac, M1 Mac, & Windows
+Downloadable installation files are located in the files list of this repository for the following platforms:  Intel Mac, M1 Mac, & Windows
 
 Installer file Intel Mac: GF2IntelMac.dmg
 
