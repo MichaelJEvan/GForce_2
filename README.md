@@ -6,7 +6,7 @@ Installer file Intel Mac: GF2IntelMac.dmg
 
 Installer file M1 Mac: GForce_2_M1Mac.dmg
 
-Installer file Windows 7 thru 10, possibly Windows 11: GForce_2_Windows_Installer.exe
+Installer file Windows 7 thru 10, Windows 11 has not been tested yet: GForce_2_Windows_Installer.exe
 
 NOTE: Compiling and conversion instructions below are for programmers only that wish to tinker. You don't need to do any of that to install.
 
