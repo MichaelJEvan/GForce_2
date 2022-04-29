@@ -32,4 +32,5 @@ None programmers please just use one of the 3 installation files provided depend
 
 Below is a screen shot of the program:
 
-![GForce_2 ScreenShot](https://user-images.githubusercontent.com/49410936/163623163-b7338b71-79a0-46a7-a7da-ced7d99bc936.png)
+![GForce_2 Screenshot](https://user-images.githubusercontent.com/49410936/165987633-46618654-ad2a-499e-8179-9ac31cacb54b.png)
+
