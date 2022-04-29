@@ -2,13 +2,13 @@
 
 Gforce_2
 
-There are 3 different installation files in the above files listing. One for Intel based Macs, M1 Mac, & Windows:
+3 different installation files are located in the list above:  Intel Mac, M1 Mac, & Windows
 
-Installer for Intel Macs: GF2IntelMac.dmg
+Installer file Intel Mac: GF2IntelMac.dmg
 
-Installer for M1 Macs: GForce_2_M1Mac.dmg
+Installer file M1 Mac: GForce_2_M1Mac.dmg
 
-Installer for Windows: GForce_2_Windows_Installer.exe
+Installer file Windows 7 thru 10, possibly Windows 11: GForce_2_Windows_Installer.exe
 
 Created by: Michael J Evan ATP, CFII                                                           
 
