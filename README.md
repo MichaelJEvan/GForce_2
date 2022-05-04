@@ -1,10 +1,6 @@
 # GForce_2
 
-Downloadable installation files are located in the files list of this repository for the following platforms:  Intel Mac, M1 Mac, & Windows.
-
-Installer file Intel Mac/M1Mac: GF2IntelMac.dmg
-
-Note: There is currently a problem with the .dmg for M1 Macs so try the Intel Mac version. It should run under Rosetta automatically.
+Downloadable installation file is located in the files list of this repository for the following platforms: M1 Mac, & Windows.
 
 Installer file Windows 7 thru 10, Windows 11 has not been tested yet: GForce_2_Windows_Installer.exe
 
