@@ -1,5 +1,9 @@
 # GForce_2
 
+
+![GForce_2 Screenshot](https://user-images.githubusercontent.com/49410936/165987633-46618654-ad2a-499e-8179-9ac31cacb54b.png)
+
+
 Downloadable installation file is located in the files list of this repository for the following platforms: M1 Mac, & Windows.
 
 Installer file Windows 7 thru 10, Windows 11 has not been tested yet: GForce_2_Windows_Installer.exe
@@ -31,7 +35,6 @@ You will need to install pyqt6 in order to compile the .ui file to a python .py 
 
 Non programmers please just use one of the 3 installation files provided depending on your operating system and enjoy the program. Currently there is no Linux distribution. But ya never know!
 
-Below is a screen shot of the program with example values selected:
 
-![GForce_2 Screenshot](https://user-images.githubusercontent.com/49410936/165987633-46618654-ad2a-499e-8179-9ac31cacb54b.png)
+
 
